@@ -1,0 +1,8 @@
+.bg-sec {
+    background-image: linear-gradient(to bottom, #05283eec, #09436700), url('../../assets/img/showContact.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
