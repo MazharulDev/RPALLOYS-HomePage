@@ -1,0 +1,22 @@
+.bgup {
+    background-image: linear-gradient(to bottom, #05283eec, #09436700), url('../../assets/img/hero.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    width: 90vw;
+    height: 80vh;
+}
+
+.text-style {
+    color: rgba(255, 255, 255, 0);
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(250, 246, 246);
+}
+
+.text-gradiant {
+    background: linear-gradient(to right, #f3f7f7 0%, #38363a00 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
