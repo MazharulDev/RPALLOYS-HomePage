@@ -8,7 +8,7 @@ const ClientSection = () => {
                 <div className='flex justifys-start'>
                     <h2 className='text-6xl w-2/4 font-bold text-blk'>Some of the best of industry experts</h2>
                 </div>
-                <div className='w-2/5 float-right align-middle text-blk'>
+                <div className='w-2/5 md:float-right align-middle text-blk mt-8'>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias vitae sequi sed vero aliquid esse laborum sit recusandae. Dolores reiciendis molestias dicta eius doloremque officia natus autem eveniet repellat ratione!</p>
                 </div>
                 <div className='mt-48 flex justify-around items-center'>
